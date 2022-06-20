@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>shapes.frag</file>
+        <file>shapes.vert</file>
+        <file>lighting.frag</file>
+        <file>lighting.vert</file>
+        <file>blur.frag</file>
+        <file>blur.vert</file>
+        <file>light.frag</file>
+        <file>light.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>matrix.jpg</file>
+        <file>wall.jpg</file>
+        <file>bricks2.jpg</file>
+        <file>bricks2_disp.jpg</file>
+        <file>bricks2_normal.jpg</file>
+        <file>rock.jpg</file>
+        <file>wood.png</file>
+        <file>container2.png</file>
+        <file>container2_specular.png</file>
+    </qresource>
+</RCC>

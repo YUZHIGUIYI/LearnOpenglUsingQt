@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>SSAO.frag</file>
+        <file>SSAO.vert</file>
+        <file>SSAO_lighting.frag</file>
+        <file>blurr.frag</file>
+        <file>g_buffer.frag</file>
+        <file>g_buffer.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>matrix.jpg</file>
+        <file>wall.jpg</file>
+        <file>bricks2.jpg</file>
+        <file>bricks2_disp.jpg</file>
+        <file>bricks2_normal.jpg</file>
+        <file>rock.jpg</file>
+        <file>wood.png</file>
+        <file>container2.png</file>
+        <file>container2_specular.png</file>
+    </qresource>
+</RCC>

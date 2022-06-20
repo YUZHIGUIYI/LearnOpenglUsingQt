@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>quad.frag</file>
+        <file>quad.vert</file>
+        <file>shapes.frag</file>
+        <file>shapes.vert</file>
+        <file>singleColor.frag</file>
+        <file>skyCube.frag</file>
+        <file>skyCube.vert</file>
+        <file>depthMap.frag</file>
+        <file>depthMap.vert</file>
+        <file>depthMap.geom</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>matrix.jpg</file>
+        <file>wall.jpg</file>
+        <file>bricks2.jpg</file>
+        <file>bricks2_disp.jpg</file>
+        <file>bricks2_normal.jpg</file>
+    </qresource>
+</RCC>
