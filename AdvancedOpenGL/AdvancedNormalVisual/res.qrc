@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>shapes.frag</file>
+        <file>shapes.vert</file>
+        <file>singleColor.frag</file>
+        <file>skyCube.frag</file>
+        <file>skyCube.vert</file>
+        <file>shapes.geom</file>
+        <file>normal.frag</file>
+        <file>normal.geom</file>
+        <file>normal.vert</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>awesomeface.png</file>
+        <file>container2.png</file>
+        <file>container2_specular.png</file>
+        <file>lighting_maps_specular_color.png</file>
+        <file>matrix.jpg</file>
+        <file>wall.jpg</file>
+        <file>grass.png</file>
+        <file>blending_transparent_window.png</file>
+        <file>back.jpg</file>
+        <file>bottom.jpg</file>
+        <file>front.jpg</file>
+        <file>left.jpg</file>
+        <file>right.jpg</file>
+        <file>top.jpg</file>
+    </qresource>
+</RCC>
